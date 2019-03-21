@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github Repo Ornek</string>
+
+
+    <string name="searchView_Hint">Username yazınız</string>
+    <string name="snackBar_Not_Found_User">Böyle bir kullanıcı bulunamadı!</string>
+    <string name="dialog_label">Lütfen Bekleyin</string>
+    <string name="dialog_detail_label">Bilgiler Alınıyor...</string>
+    <string name="exit_string">Çıkış için tekrar Geri tuşuna basınız!</string>
+
+</resources>
